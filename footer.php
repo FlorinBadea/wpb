@@ -34,7 +34,7 @@
             </div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
-
+<!-- comment for test -->
 <?php wp_footer(); ?>
 
 </body>
